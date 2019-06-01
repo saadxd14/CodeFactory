@@ -8,6 +8,11 @@
 
 ---
 
+#### Video Tutorial
+https://youtu.be/uaU5e2YFQpQ
+
+---
+
 #### Setup
 
 1. Install Node.JS from https://nodejs.org/
