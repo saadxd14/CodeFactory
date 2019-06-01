@@ -22,7 +22,7 @@ You can configure the bot by editing ``config.json``
 
 First of all, put your user token in the ``token`` field ([How to get your user token](https://youtu.be/tI1lzqzLQCs))
 
-You can edit the message that gets sent in the ``message`` field
+You can edit the message that gets sent in the ``message`` field. Available message variables: ``{user}``, ``{username}``, ``{mention}``
 
 By setting the ``ignore_friends`` field to true or false, you can choose if messages coming from friends should be ignored
 
